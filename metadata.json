@@ -1,0 +1,6 @@
+{
+  "name": "Lunar Landing Site Navigator",
+  "description": "AI-powered 3D lunar south-pole terrain intelligence, hazard analysis, solar/Earth horizon theater, and mission briefing platform for NASA Space Apps Challenge 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
